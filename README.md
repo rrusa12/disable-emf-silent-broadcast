@@ -1,4 +1,4 @@
-# 🔇 jl-rfkill
+# 🔇 emf-rfkill
 
 **Permanently silence the Bluetooth/WiFi radios of a JieLi (JL) device — by patching its own firmware. Wired audio keeps working.**
 
@@ -11,6 +11,9 @@
 > still beacons, and can still be woken over the air. This removes the RF
 > bring-up from the firmware itself, so the radio is never calibrated or
 > powered — instead of trusting a UI toggle.
+>
+> Built for EMF-conscious users, and for anyone who wants a "wired-only" device
+> that is actually wired-only.
 
 **Verified result (BlueAnt Soundblade TT201M2, 2026-10-21):** 0 BLE
 advertisements across active scans, classic link down, USB audio + HID still
