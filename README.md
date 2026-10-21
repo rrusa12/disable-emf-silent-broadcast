@@ -1,6 +1,6 @@
-# 🔇 emf-rfkill
+# ⚡ Disable EMF Silent Broadcast
 
-**Permanently silence the Bluetooth/WiFi radios of a JieLi (JL) device — by patching its own firmware. Wired audio keeps working.**
+**Stop a JieLi (JL) device from broadcasting when it claims to be off — by patching its own firmware. Wired audio keeps working.**
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)
