@@ -1,0 +1,15 @@
+# firmware images are never committed — supply your own stock .ufw
+*.ufw
+*.bin
+*.bfu
+
+# local scratch / logs
+_test/
+*.log
+serve_ota.log
+__pycache__/
+*.pyc
+
+# editor
+.vscode/
+.idea/
